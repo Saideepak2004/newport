@@ -353,11 +353,11 @@ export default function App() {
             },
             {
               meta: '· Deep Learning',
-              title: 'Bitcoin Price Prediction',
-              slug: 'bitcoin-price-prediction',
-              githubUrl:"https://github.com/Saideepak2004/Bitcoin-price-prediction.git",
-              desc: 'Developed an LSTM-based deep learning model to predict Bitcoin prices from historical time-series data, outperforming traditional regression on volatile trends.',
-              pills: ['Python', 'PyTorch', 'Pandas'],
+              title: 'AI File Search Chatbot',
+              slug: 'AI Chat Bot',
+              githubUrl:"https://github.com/Saideepak2004/AI-File-search-chatbot.git",
+              desc: 'Developed an offline AI-powered file search chatbot that retrieves documents using natural language queries through semantic search. Integrated local LLMs with a vector database for privacy-preserving file retrieval.',
+              pills: ['Python', 'Transformer', 'NLP','Ollama','langchain'],
             },
             {
               meta: '· AI · Computer Vision',
@@ -475,8 +475,8 @@ export default function App() {
             <div className="cert">
               <div className="cert-ico">🔐</div>
               <div>
-                <div className="cert-name">Ethical Hacking</div>
-                <div className="cert-by">NPTEL</div>
+                <div className="cert-name">Advanced Software Engineering Job Simulation </div>
+                <div className="cert-by">Walmart</div>
               </div>
             </div>
           </div>
